@@ -1,0 +1,6 @@
+AreaCodeIntent {AreaCode}
+AreaCodeIntent Where is {AreaCode}
+AreaCodeIntent Where's {AreaCode}
+AreaCodeIntent What state is {AreaCode} in
+AreaCodeIntent {AreaCode} is where
+AreaCodeIntent {AreaCode} is in what state
